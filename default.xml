@@ -367,7 +367,6 @@
   <project path="vendor/tmobile" name="ParanoidAndroid/android_vendor_tmobile" revision="jellybean" />
 
   <!-- PAC -->
-  <project path="android" name="PAC-man/android" />
   <project path="frameworks/native" name="PAC-man/android_frameworks_native" />
   <project path="packages/apps/Camera" name="PAC-man/android_packages_apps_Camera" />
   <project path="packages/apps/Contacts" name="PAC-man/android_packages_apps_Contacts" />
