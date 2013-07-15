@@ -403,6 +403,7 @@
   <project path="packages/apps/Trebuchet" name="android_packages_apps_Trebuchet"  remote="pac" />
   <project path="packages/inputmethods/LatinIME" name="android_packages_inputmethods_LatinIME"  remote="pac" />
   <project path="packages/providers/ContactsProvider" name="android_packages_providers_ContactsProvider"  remote="pac" />
+  <project path="vendor/pac" name="android_vendor_pac" remote="pac" />
   <project path="system/core" name="android_system_core"  remote="pac" />
 
   <project path="pac" name="pac" remote="pac" >
@@ -416,7 +417,6 @@
   <!-- P760 -->
   <project path="android" name="adamz667/pac_manifest" />
   <project path="frameworks/base" name="adamz667/pac_frameworks_base" revision="p760" />
-  <project path="vendor/pac" name="adamz667/vendor_pac" revision="p760" />
   <project path="kernel/lge/omap4-common" name="adamz667/lge_omap4_kernel" revision="p760" />
   <project path="device/lge/p760" name="adamz667/device_lge_p760" />
 
